@@ -1,6 +1,6 @@
 ---
 
-[Home](/) | [CVW-8](/cvw8/cvw8.md)
+[Home](/) | [CVW-8](cvw8.md)
 
 ---
 
@@ -11,5 +11,5 @@ table of contents below.
 
 ## Table of Contents
 
-- [Tutorials](/cvw8/tutorials.md)
-  - [SEAD](/cvw8/tutorials.md#SEAD)
+- [Tutorials](cvw8_tutorials.md)
+  - [SEAD](cvw8_tutorials.md#SEAD)

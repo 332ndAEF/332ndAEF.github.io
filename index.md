@@ -1,6 +1,6 @@
 ---
 
-[Home](/) | [CVW-8](/cvw8/cvw8.md)
+[Home](/) | [CVW-8](cvw8.md)
 
 ---
 
