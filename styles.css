@@ -42,6 +42,9 @@ pre {
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid;
+    text-align: center;
+    width: auto;
+    display: table;
   }
 
   thead {
@@ -200,4 +203,7 @@ pre {
 blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
+  text-align: center;
+  width: auto;
+  display: table;
 }
